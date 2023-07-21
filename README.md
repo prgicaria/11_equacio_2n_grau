@@ -1,0 +1,1 @@
+# 11_equacio_2n_grau
