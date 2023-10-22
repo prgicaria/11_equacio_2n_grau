@@ -4,10 +4,10 @@ Crea un programa que demani l'entrada dels tres coeficients d'una equació de se
 
 El lliurament ha d'incloure:
 
-'''txt
+```txt
 11_equacio_2n_grau.py
 11_equacio_2n_grau_flux.pdf
 11_equacio_2n_grau_proves.pdf
-'''
+```
 
 El lliurament s'ha de fer a GitHub Classroom en l'assignació: <https://classroom.github.com/a/Jcm3Y-6o>
