@@ -11,14 +11,14 @@ Per a que la comprovació automàtica funcioni farem servir el [format literal d
 Segons el discriminant cal escollir una de les següents cadenes:
 
 ```python
-print("No tés solucions reals")
+print("No té solucions reals")
 
-print(f"Té una solució{solucio}")
+print(f"Té una solució: {solucio}")
 
 print(f"Té dues solucions: {solucio1} i {solucio2}")
 ```
 
-Això pot dona els possibles resultats d'exemple:
+El codi anterior genera els possibles resultats d'exemple:
 
 ```txt
 No té solucions reals
